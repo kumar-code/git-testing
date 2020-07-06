@@ -9,6 +9,8 @@ Server
     - monk - mongoDB
     - helmet - basic security
     - morgan - logger
+    - nodemon - for realtime development 
+    - dotenv - envirnoment variable
 
 Client
 - create index.html - type ! enter to get the template
