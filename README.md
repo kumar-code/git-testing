@@ -8,7 +8,7 @@ Server
     - yup for validation
     - monk - mongoDB
     - helmet - basic security
-    - morgan - login/logger
+    - morgan - logger
 
 Client
 - create index.html - type ! enter to get the template
